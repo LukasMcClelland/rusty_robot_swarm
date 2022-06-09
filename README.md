@@ -1,4 +1,4 @@
-Rusty Robot Swarm is a modified reimplementation of the swarm robotics simulation I made for my honours project in senior year of 
+Rusty Robot Swarm is a modified reimplementation of [the swarm robotics simulation I made](https://github.com/LukasMcClelland/Simulated-Swarm-Robotics-Project) for my honours project in senior year of 
 university. But, this time I'm writing the whole thing in Rust instead of Python! 
 
 Using Python the first time around was excellent as it led to rapid development and proof of concept/prototyping. 
