@@ -6,5 +6,7 @@ However, the whole simulation ran a little too slowly for my taste, so this proj
 
 
 Early development snip (just about to put each robot into its own thread!)
-![image](https://user-images.githubusercontent.com/33130026/172960867-6cb6c63b-b874-4508-8127-ddadacfdb56b.png)
+<!-- ![image](https://user-images.githubusercontent.com/33130026/172960867-6cb6c63b-b874-4508-8127-ddadacfdb56b.png) -->
+
+<img src="https://user-images.githubusercontent.com/33130026/172960867-6cb6c63b-b874-4508-8127-ddadacfdb56b.png" width=50% height=50% >
 
